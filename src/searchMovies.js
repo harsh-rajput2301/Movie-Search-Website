@@ -1,6 +1,5 @@
 import React, {useState} from "react";
 import MovieCard from './movieCard.js';
-import './style.css';
 export default function SearchMovies(){
     
     //states- input query, movies
